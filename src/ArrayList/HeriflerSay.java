@@ -5,7 +5,6 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class HeriflerSay {
-
     //1) String line = "AZERBAIJAN";
     //2) Sözdəki hərfləri və onların sayın HashMap a yazırıq
     public static void main(String[] args) {
