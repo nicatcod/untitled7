@@ -15,13 +15,6 @@ public class PhoneBook {
         if (Phonebook.containsKey(Adi)) {
             Phonebook.remove(Adi);
             System.out.println("Kontakta Silindi" + Adi);
-
-
-
-
-
-
-
         } else {
             System.out.println("Kontakta Tapilmadi");
         }
