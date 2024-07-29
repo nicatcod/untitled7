@@ -1,6 +1,8 @@
 package OOP_Giris;
-public class User {
-    public  String name;
-    public  String surname;
+public abstract class User {
+    public void N(){
+        System.out.println("Salam qaqaa");
 
+    }
+    public abstract void S();
 }
